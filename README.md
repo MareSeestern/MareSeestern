@@ -5,8 +5,7 @@
 
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCsGZt4UtInZ01tBjM1B-FbQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="informatic teens" height="30" width="40" /></a>
- 
+ [![Youtube Badge](https://img.shields.io/badge/-INFOrmAtIc Teens-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCsGZt4UtInZ01tBjM1B-FbQ)](https://www.youtube.com/channel/UCsGZt4UtInZ01tBjM1B-FbQ)
  [![Gmail Badge](https://img.shields.io/badge/-mareseestern@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mareseestern@gmail.com)](mailto:mareseestern@gmail.com)
  
 </p>
