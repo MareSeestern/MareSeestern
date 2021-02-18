@@ -5,7 +5,7 @@
 
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-[![Youtube Badge](https://img.shields.io/badge/-INFOrmAtIcTeens-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCsGZt4UtInZ01tBjM1B-FbQ
+[![Youtube Badge](https://img.shields.io/badge/-INFOrmAtIcTeens-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCsGZt4UtInZ01tBjM1B-FbQ)]
  
  [![Gmail Badge](https://img.shields.io/badge/-mareseestern@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mareseestern@gmail.com)](mailto:mareseestern@gmail.com)
  
