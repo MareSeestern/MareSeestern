@@ -6,6 +6,9 @@
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCsGZt4UtInZ01tBjM1B-FbQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="informatic teens" height="30" width="40" /></a>
+ 
+ [![Gmail Badge](https://img.shields.io/badge/-mareseestern@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mareseestern@gmail.com)](mailto:mareseestern@gmail.com)
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,6 +16,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mareseestern&show_icons=true&theme=algolia&locale=en&layout=compact" alt="mareseestern" /></p>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mareseestern&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mareseestern&" alt="mareseestern" /></p>
 
 
